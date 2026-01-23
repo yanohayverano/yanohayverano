@@ -1,9 +1,3 @@
-<h1 align="center">
-  <span style="background-image: linear-gradient(to left, #3CB371 100%, #F0FFF0 100%); 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               font-family: sans-serif;
-               font-weight: bold;">
-    they're so dear to me
-  </span>
-</h1>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![greeeenn](https://github.com/user-attachments/assets/ef802b75-d7af-4271-b683-26a2b97181f3)
+
+⠀⠀⠀⠀⠀⠀⠀<img width="420" height="91" alt="Minecraft-text-r44" src="https://github.com/user-attachments/assets/ca8f4615-98b5-4794-a082-bc325e39ebf1" />
